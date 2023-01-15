@@ -1,2 +1,2 @@
-# certificates
-Personal Certificates
+# Fuat Can Akgün
+Personal Certificates Showcase
